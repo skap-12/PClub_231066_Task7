@@ -16,21 +16,21 @@ export function Navbar() {
           <Nav.Link as={NavLink} to="/about">
             About
           </Nav.Link>
-          {/* Removed Nav.Link for ProfilePage */}
+          
         </Nav>
         <Button
           style={{ width: "3rem", height: "3rem", position: "relative" }}
           variant="outline-primary"
           className="rounded-circle"
         >
-          {/* Button directing to ProfilePage */}
+          
           <Link to="/ProfilePage">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 576 512"
               fill="currentColor"
             >
-              {/* SVG path */}
+              
             </svg>
           </Link>
           <div
