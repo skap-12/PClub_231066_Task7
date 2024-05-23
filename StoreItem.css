@@ -1,0 +1,35 @@
+.link-hover {
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
+    background-color: rgb(173, 239, 245);
+  }
+  
+  .link-hover:hover {
+    transform: scale(1.05);
+    background-color: #ccefce;
+  }
+  
+  .name-hover {
+    transition: color 0.3s ease-in-out, font-size 0.3s ease-in-out;
+  }
+  
+  .name-hover:hover {
+    color: blue;
+    font-size: 3.2rem;
+  }
+  
+  .price-hover {
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .price-hover:hover {
+    color: green;
+  }
+
+.list-item-spacing {
+    margin-bottom: 20px; /* Adjust the value as needed */
+}
+
+  
+  
+  
+  
