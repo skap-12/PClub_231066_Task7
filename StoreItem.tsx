@@ -1,8 +1,8 @@
 import React from "react";
 import { ListGroup } from "react-bootstrap";
 import { formatCurrency } from "../utilities/formatCurrency";
-import { Link } from "react-router-dom"; // Import Link
-import "./StoreItem.css"; // Import CSS file
+import { Link } from "react-router-dom"; 
+import "./StoreItem.css"; 
 
 type StoreItemProps = {
   id: number;
@@ -10,7 +10,7 @@ type StoreItemProps = {
   price: number;
   imgUrl: string;
   description: string;
-  url: string; // New prop for the URL
+  url: string; 
 };
 
 export function StoreItem({
@@ -19,7 +19,7 @@ export function StoreItem({
   price,
   imgUrl,
   description,
-  url, // Destructure the new prop
+  url, 
 }: StoreItemProps) {
   return (
     <ListGroup.Item className="d-flex align-items-start p-0 list-item-spacing">
