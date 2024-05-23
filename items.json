@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Cooler",
+        "price": 4999,
+        "imgUrl": "https://apollo.olx.in/v1/files/qhgoxl969p9d1-IN/image;s=272x0",
+        "description": "USHA Cooler in working condition, best cooler for double room"
+    },
+    {
+        "id": 2,
+        "name": "Desk",
+        "price": 449,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNAiU_iySF36wknOgYOO_3ZTfh22PL9Dqf6YFzxMqR_A&s",
+        "description": "Wooden table desk"
+    },
+    {
+        "id": 3,
+        "name": "Bicycle",
+        "price": 2350,
+        "imgUrl": "https://apollo.olx.in/v1/files/380y0zvkmz242-IN/image;s=272x0",
+        "description": "Kross bicycle, without gear"
+    },
+    {
+        "id": 4,
+        "name": "Curtains",
+        "price": 650,
+        "imgUrl": "https://apollo.olx.in/v1/files/4gtr18lqr9k92-IN/image;s=272x0",
+        "description": "Polyester material washable curtains"
+    },
+    {
+        "id": 5,
+        "name": "Dell Laptop",
+        "price": 19500,
+        "imgUrl": "https://apollo.olx.in/v1/files/huzs4vv8nsnc2-IN/image;s=272x0",
+        "description": "Intel i7 dell laptop"
+    },
+    {
+        "id": 6,
+        "name": "Vintage empty Beer bottles (Premium Collection) set of 100",
+        "price": 49999,
+        "imgUrl": "https://apollo.olx.in/v1/files/uri9qd2j2dxt3-IN/image;s=360x0",
+        "description": "4 years of collection of beer bottles of different brands"
+    },
+    {
+        "id": 7,
+        "name": "Full Suit for men",
+        "price": 6969,
+        "imgUrl": "https://apollo.olx.in/v1/files/30pppzi212002-IN/image;s=272x0",
+        "description": "Black suit with waistcoat"
+    },
+    {
+        "id": 8,
+        "name": "Table Fan",
+        "price": 550,
+        "imgUrl": "https://apollo.olx.in/v1/files/79jnknkl12y03-IN/image;s=272x0",
+        "description": "Table Fan, perfect for single person"
+    },
+    {
+        "id": 9,
+        "name": "Mangal Sutra",
+        "price": 29000,
+        "imgUrl": "https://apollo.olx.in/v1/files/pmgdznjr9l6y2-IN/image;s=272x0",
+        "description": "Bridal Mangal Sutra for wedding"
+    },
+    {
+        "id": 10,
+        "name": "Rope, tight",
+        "price": 150,
+        "imgUrl": "https://apollo.olx.in/v1/files/vbdq9dq5knd21-IN/image",
+        "description": "Tight unbreakable rope for hanging purposes(Clothes)"
+    },
+    {
+        "id": 11,
+        "name": "Mattress",
+        "price": 169,
+        "imgUrl": "https://apollo.olx.in/v1/files/i80ls28c8eu4-IN/image;s=272x0",
+        "description": "Soft mattress, 6 feet"
+    }
+
+
+
+]
